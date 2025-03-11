@@ -1,4 +1,4 @@
-由于大文件上传起来麻烦，我就不上传了。
+由于大文件上传起来麻烦，我就不上传了。当前可以直接运行的插件是发送指定音频作为语音消息，触发调节为关键词触发。
 详情可以访问我的飞桨项目获取相关内容：
 获取或自己训练音色模型  https://aistudio.baidu.com/projectdetail/8875375
 对话微调模型： https://aistudio.baidu.com/projectdetail/8864531
